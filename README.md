@@ -4,7 +4,7 @@
 - 🚀 Favorite stack - TypeScript + NextJS
 - 🇺🇸 Based in the United States
 - 👨‍💻 Currently working with the Computer Science department of my university on https://github.com/GafurCodes/professor-dashboard
-- ⏳ In my free time I'm working on my project https://github.com/GafurCodes/BudgeIT
+- ⏳ In my free time I'm doing problems on AlgoExpert
 
 
 ### Get in touch 📧
