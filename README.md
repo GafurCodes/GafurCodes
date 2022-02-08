@@ -3,8 +3,8 @@
 - 🔭 A Full-Stack React Developer
 - 🚀 Favorite stack - TypeScript + NextJS
 - 🇺🇸 Based in the United States
-- 👨‍💻 Currently working with the Computer Science department of my university on https://github.com/GafurCodes/professor-dashboard
-- ⏳ In my free time I'm doing problems on AlgoExpert
+- 👨‍💻 This Summer I'm starting as a SDE intern at Amazon
+- ⏳ In my free time I'm doing problems on Leetcode
 
 
 ### Get in touch 📧
